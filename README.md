@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhaib Gour</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://www.nicepng.com/png/detail/35-355670_coding-clipart.png">
+<img align="right" alt="coding" width="400" src="https://freepngimg.com/thumb/web_design/31748-9-coder-transparent.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goriens&label=Profile%20views&color=0e75b6&style=flat" alt="goriens" /> </p>
 
