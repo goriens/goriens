@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on Google
 - 💬 Ask me about Code
-- 📫 How to reach me: Linkedin:https://www.linkedin.com/in/suhaib-gour/
+- 📫 How to reach me: LinkedIn: @suhaib-gour
