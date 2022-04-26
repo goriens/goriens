@@ -5,6 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 👉 I'm a Full-stack web developer with a specialization in MERN stack. Capable of writing efficient code using ReactJS, NodeJS, MongoDB and HTML. Passionate about coding and looking for opportunities in software development.
+<img align="right" alt="coding" width="400" src="https://freepngimg.com/thumb/web_design/31748-9-coder-transparent.png">
 
 * 🌍  I'm based in Roorkee, India
 * 🖥️  See my portfolio at [myportfolio.com](http://example.com)
