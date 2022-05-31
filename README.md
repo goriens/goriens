@@ -10,7 +10,7 @@ Full Stack Web Developer
 <img align="right" alt="coding" width="350" src="https://freepngimg.com/thumb/web_design/31748-9-coder-transparent.png">
 
 * 🌍  I'm based in Roorkee, India
-* 🖥️  See my portfolio at [[myportfolio.com](https://suhaib-gour.vercel.app/)](http://example.com)
+* 🖥️  See my portfolio at [Click Here](https://suhaib-gour.vercel.app/)
 * ✉️  You can contact me at [sohaibgoriens@gmail.com](mailto:sohaibgoriens@gmail.com)
 * 🧠  I'm learning React.Js
 * 🤝  I'm open to collaborating on Web Application and MERN Stack
