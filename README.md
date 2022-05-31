@@ -5,8 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 👉 I'm a Full-stack web developer with a specialization in MERN stack. Capable of writing efficient code using ReactJS, NodeJS, MongoDB and HTML. Passionate about coding and looking for opportunities in software development.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goriens&label=github+views&color=blueviolet&style=for-the-badge" alt="goriens" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goriens&label=github+views&color=blueviolet&style=for-the-badge" alt="goriens" /></p>
 
 <img align="right" alt="coding" width="350" src="https://freepngimg.com/thumb/web_design/31748-9-coder-transparent.png">
 
