@@ -12,7 +12,7 @@
 * 🌍  I'm based in Roorkee, India
 * 🖥️  See my portfolio at [Click Here](https://suhaib-gour.vercel.app/)
 * ✉️  You can contact me at [sohaibgoriens@gmail.com](mailto:sohaibgoriens@gmail.com)
-* 🧠  I'm learning React.Js
+* 🧠  I'm learning Daily
 * 🤝  I'm open to collaborating on Web Application and MERN Stack
 * ⚡  Learning is the Shortcut of Earning.
 ## 💻 Tech Stack:
