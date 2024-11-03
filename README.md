@@ -1,7 +1,7 @@
 # Hi 👋 My name is Suhaib Gour
 ------------------------
 
-👨‍💻 Full Stack Web Developer 
+👨‍💻 Software Engineer
 ------------------------
 
 👉 I'm a Full-stack web developer with a specialization in MERN stack. Capable of writing efficient code using ReactJS, NodeJS, MongoDB and HTML. Passionate about coding and looking for opportunities in software development.
